@@ -4,8 +4,8 @@ Dalam web guideline ini terdapat beberapa materi dalam pengembangan web, dimulai
 
 ## Frontend
 :orange_book: [HTML](frontend/html/README.md) 
-:orange_book: [HTML](frontend/css/README.md) 
-:orange_book: [HTML](frontend/javascript/README.md) 
+:orange_book: [CSS](frontend/css/README.md) 
+:orange_book: [JavaScript](frontend/javascript/README.md) 
 
 ## Backend
-:orange_book: [HTML](backend/php/README.md) 
+:orange_book: [PHP](backend/php/README.md) 
